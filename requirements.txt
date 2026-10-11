@@ -1,0 +1,11 @@
+# Packages used by the notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+
+# For running the notebook locally
+jupyterlab
